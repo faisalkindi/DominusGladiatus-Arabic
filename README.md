@@ -8,7 +8,7 @@
 
 ## التحميل
 
-من صفحة [الإصدارات](../../releases/latest) حمّل ملف `DominusGladiatus-Arabic-v1.0.0.exe`.
+من صفحة [الإصدارات](../../releases/latest) حمّل ملف `DominusGladiatus-Arabic-v1.0.1.exe`.
 
 ## التثبيت
 
@@ -22,7 +22,7 @@
 
 ## تنبيه
 
-- صُمّم لإصدار Steam، رقم البناء 26566532. بعد أي تحديث للعبة انتظر نسخة جديدة من التعريب.
+- صُمّم لإصدار Steam، رقم البناء 26648558. بعد أي تحديث للعبة انتظر نسخة جديدة من التعريب.
 - لا يُعدَّل أي ملف من ملفات اللعبة. يضيف المثبّت محمّل BepInEx 5، ويُحذف عند الإزالة إن لم تكن هناك تعديلات أخرى تستخدمه.
 - أوامر القوائم والشروحات (اختر، اضغط) تبقى بصيغة المذكر مع كل الشخصيات.
 - ما بقي بالإنجليزية: شعار اللعبة. ولا يمكن كتابة أسماء المجالدين بحروف عربية.
@@ -40,6 +40,6 @@
 
 ---
 
-Full Arabic localization of Dominus Gladiatus (Steam, build 26566532): 1,679 lines in Modern Standard Arabic covering menus and settings, tutorials and events, gladiator classes and skills, equipment, the story and the rival Domini's letters, with the SST Arabic font. Arabic is added as an extra language in the game's own language menu; the other languages are unchanged, and the game's own files are not modified. Lines addressed to the player follow the gender of the chosen Dominus. Download the installer from [Releases](../../releases/latest).
+Full Arabic localization of Dominus Gladiatus (Steam, build 26648558): 1,679 lines in Modern Standard Arabic covering menus and settings, tutorials and events, gladiator classes and skills, equipment, the story and the rival Domini's letters, with the SST Arabic font. Arabic is added as an extra language in the game's own language menu; the other languages are unchanged, and the game's own files are not modified. Lines addressed to the player follow the gender of the chosen Dominus. Download the installer from [Releases](../../releases/latest).
 
 This is a fan project, not affiliated with or endorsed by Brain Seal Entertainment or PlayWay. Dominus Gladiatus is a trademark of its respective owner.
